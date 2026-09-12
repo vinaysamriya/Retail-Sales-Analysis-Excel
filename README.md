@@ -43,3 +43,7 @@ The dashboard includes:
 - Monthly Sales Trend
 - Top 10 Products
 - Key Business Insights
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
